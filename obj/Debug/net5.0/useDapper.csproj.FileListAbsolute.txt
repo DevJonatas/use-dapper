@@ -1,0 +1,107 @@
+C:\Users\Jonatas\Documents\projetos\Portfolio\Dapper - Subir GitHub\dapper\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Jonatas\Documents\projetos\Portfolio\Dapper - Subir GitHub\dapper\bin\Debug\net5.0\appsettings.json
+C:\Users\Jonatas\Documents\projetos\Portfolio\Dapper - Subir GitHub\dapper\bin\Debug\net5.0\useDapper.exe
+C:\Users\Jonatas\Documents\projetos\Portfolio\Dapper - Subir GitHub\dapper\bin\Debug\net5.0\useDapper.deps.json
+C:\Users\Jonatas\Documents\projetos\Portfolio\Dapper - Subir GitHub\dapper\bin\Debug\net5.0\useDapper.runtimeconfig.json
+C:\Users\Jonatas\Documents\projetos\Portfolio\Dapper - Subir GitHub\dapper\bin\Debug\net5.0\useDapper.runtimeconfig.dev.json
+C:\Users\Jonatas\Documents\projetos\Portfolio\Dapper - Subir GitHub\dapper\bin\Debug\net5.0\useDapper.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\Dapper - Subir GitHub\dapper\bin\Debug\net5.0\ref\useDapper.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\Dapper - Subir GitHub\dapper\bin\Debug\net5.0\useDapper.pdb
+C:\Users\Jonatas\Documents\projetos\Portfolio\Dapper - Subir GitHub\dapper\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\Dapper - Subir GitHub\dapper\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\Dapper - Subir GitHub\dapper\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\Dapper - Subir GitHub\dapper\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\Dapper - Subir GitHub\dapper\obj\Debug\net5.0\useDapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonatas\Documents\projetos\Portfolio\Dapper - Subir GitHub\dapper\obj\Debug\net5.0\useDapper.AssemblyInfoInputs.cache
+C:\Users\Jonatas\Documents\projetos\Portfolio\Dapper - Subir GitHub\dapper\obj\Debug\net5.0\useDapper.AssemblyInfo.cs
+C:\Users\Jonatas\Documents\projetos\Portfolio\Dapper - Subir GitHub\dapper\obj\Debug\net5.0\useDapper.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas\Documents\projetos\Portfolio\Dapper - Subir GitHub\dapper\obj\Debug\net5.0\useDapper.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jonatas\Documents\projetos\Portfolio\Dapper - Subir GitHub\dapper\obj\Debug\net5.0\useDapper.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jonatas\Documents\projetos\Portfolio\Dapper - Subir GitHub\dapper\obj\Debug\net5.0\staticwebassets\useDapper.StaticWebAssets.Manifest.cache
+C:\Users\Jonatas\Documents\projetos\Portfolio\Dapper - Subir GitHub\dapper\obj\Debug\net5.0\staticwebassets\useDapper.StaticWebAssets.xml
+C:\Users\Jonatas\Documents\projetos\Portfolio\Dapper - Subir GitHub\dapper\obj\Debug\net5.0\scopedcss\bundle\useDapper.styles.css
+C:\Users\Jonatas\Documents\projetos\Portfolio\Dapper - Subir GitHub\dapper\obj\Debug\net5.0\useDapper.RazorTargetAssemblyInfo.cache
+C:\Users\Jonatas\Documents\projetos\Portfolio\Dapper - Subir GitHub\dapper\obj\Debug\net5.0\useDapper.csproj.CopyComplete
+C:\Users\Jonatas\Documents\projetos\Portfolio\Dapper - Subir GitHub\dapper\obj\Debug\net5.0\useDapper.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\Dapper - Subir GitHub\dapper\obj\Debug\net5.0\ref\useDapper.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\Dapper - Subir GitHub\dapper\obj\Debug\net5.0\useDapper.pdb
+C:\Users\Jonatas\Documents\projetos\Portfolio\Dapper - Subir GitHub\dapper\obj\Debug\net5.0\useDapper.genruntimeconfig.cache
+C:\Users\Jonatas\Documents\projetos\Portfolio\Dapper - Subir GitHub\dapper\bin\Debug\net5.0\Dapper.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\Dapper - Subir GitHub\dapper\obj\Debug\net5.0\useDapper.csproj.AssemblyReference.cache
+C:\Users\Jonatas\Documents\projetos\Portfolio\Dapper - Subir GitHub\dapper\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\Dapper - Subir GitHub\dapper\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\Dapper - Subir GitHub\dapper\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\Dapper - Subir GitHub\dapper\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\Dapper - Subir GitHub\dapper\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\Dapper - Subir GitHub\dapper\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\Nova pasta\dapper\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Jonatas\Documents\projetos\Portfolio\Nova pasta\dapper\bin\Debug\net5.0\appsettings.json
+C:\Users\Jonatas\Documents\projetos\Portfolio\Nova pasta\dapper\bin\Debug\net5.0\useDapper.exe
+C:\Users\Jonatas\Documents\projetos\Portfolio\Nova pasta\dapper\bin\Debug\net5.0\useDapper.deps.json
+C:\Users\Jonatas\Documents\projetos\Portfolio\Nova pasta\dapper\bin\Debug\net5.0\useDapper.runtimeconfig.json
+C:\Users\Jonatas\Documents\projetos\Portfolio\Nova pasta\dapper\bin\Debug\net5.0\useDapper.runtimeconfig.dev.json
+C:\Users\Jonatas\Documents\projetos\Portfolio\Nova pasta\dapper\bin\Debug\net5.0\useDapper.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\Nova pasta\dapper\bin\Debug\net5.0\ref\useDapper.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\Nova pasta\dapper\bin\Debug\net5.0\useDapper.pdb
+C:\Users\Jonatas\Documents\projetos\Portfolio\Nova pasta\dapper\bin\Debug\net5.0\Dapper.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\Nova pasta\dapper\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\Nova pasta\dapper\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\Nova pasta\dapper\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\Nova pasta\dapper\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\Nova pasta\dapper\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\Nova pasta\dapper\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\Nova pasta\dapper\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\Nova pasta\dapper\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\Nova pasta\dapper\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\Nova pasta\dapper\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\Nova pasta\dapper\obj\Debug\net5.0\useDapper.csproj.AssemblyReference.cache
+C:\Users\Jonatas\Documents\projetos\Portfolio\Nova pasta\dapper\obj\Debug\net5.0\useDapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonatas\Documents\projetos\Portfolio\Nova pasta\dapper\obj\Debug\net5.0\useDapper.AssemblyInfoInputs.cache
+C:\Users\Jonatas\Documents\projetos\Portfolio\Nova pasta\dapper\obj\Debug\net5.0\useDapper.AssemblyInfo.cs
+C:\Users\Jonatas\Documents\projetos\Portfolio\Nova pasta\dapper\obj\Debug\net5.0\useDapper.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas\Documents\projetos\Portfolio\Nova pasta\dapper\obj\Debug\net5.0\useDapper.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jonatas\Documents\projetos\Portfolio\Nova pasta\dapper\obj\Debug\net5.0\useDapper.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jonatas\Documents\projetos\Portfolio\Nova pasta\dapper\obj\Debug\net5.0\staticwebassets\useDapper.StaticWebAssets.Manifest.cache
+C:\Users\Jonatas\Documents\projetos\Portfolio\Nova pasta\dapper\obj\Debug\net5.0\staticwebassets\useDapper.StaticWebAssets.xml
+C:\Users\Jonatas\Documents\projetos\Portfolio\Nova pasta\dapper\obj\Debug\net5.0\scopedcss\bundle\useDapper.styles.css
+C:\Users\Jonatas\Documents\projetos\Portfolio\Nova pasta\dapper\obj\Debug\net5.0\useDapper.RazorTargetAssemblyInfo.cache
+C:\Users\Jonatas\Documents\projetos\Portfolio\Nova pasta\dapper\obj\Debug\net5.0\useDapper.csproj.CopyComplete
+C:\Users\Jonatas\Documents\projetos\Portfolio\Nova pasta\dapper\obj\Debug\net5.0\useDapper.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\Nova pasta\dapper\obj\Debug\net5.0\ref\useDapper.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\Nova pasta\dapper\obj\Debug\net5.0\useDapper.pdb
+C:\Users\Jonatas\Documents\projetos\Portfolio\Nova pasta\dapper\obj\Debug\net5.0\useDapper.genruntimeconfig.cache
+C:\Users\Jonatas\Documents\projetos\Portfolio\use-dapper\bin\Debug\net5.0\appsettings.json
+C:\Users\Jonatas\Documents\projetos\Portfolio\use-dapper\bin\Debug\net5.0\useDapper.exe
+C:\Users\Jonatas\Documents\projetos\Portfolio\use-dapper\bin\Debug\net5.0\useDapper.deps.json
+C:\Users\Jonatas\Documents\projetos\Portfolio\use-dapper\bin\Debug\net5.0\useDapper.runtimeconfig.json
+C:\Users\Jonatas\Documents\projetos\Portfolio\use-dapper\bin\Debug\net5.0\useDapper.runtimeconfig.dev.json
+C:\Users\Jonatas\Documents\projetos\Portfolio\use-dapper\bin\Debug\net5.0\useDapper.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\use-dapper\bin\Debug\net5.0\ref\useDapper.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\use-dapper\bin\Debug\net5.0\useDapper.pdb
+C:\Users\Jonatas\Documents\projetos\Portfolio\use-dapper\bin\Debug\net5.0\Dapper.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\use-dapper\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\use-dapper\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\use-dapper\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\use-dapper\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\use-dapper\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\use-dapper\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\use-dapper\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\use-dapper\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\use-dapper\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\use-dapper\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\use-dapper\obj\Debug\net5.0\useDapper.csproj.AssemblyReference.cache
+C:\Users\Jonatas\Documents\projetos\Portfolio\use-dapper\obj\Debug\net5.0\useDapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonatas\Documents\projetos\Portfolio\use-dapper\obj\Debug\net5.0\useDapper.AssemblyInfoInputs.cache
+C:\Users\Jonatas\Documents\projetos\Portfolio\use-dapper\obj\Debug\net5.0\useDapper.AssemblyInfo.cs
+C:\Users\Jonatas\Documents\projetos\Portfolio\use-dapper\obj\Debug\net5.0\useDapper.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas\Documents\projetos\Portfolio\use-dapper\obj\Debug\net5.0\useDapper.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jonatas\Documents\projetos\Portfolio\use-dapper\obj\Debug\net5.0\useDapper.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jonatas\Documents\projetos\Portfolio\use-dapper\obj\Debug\net5.0\staticwebassets\useDapper.StaticWebAssets.Manifest.cache
+C:\Users\Jonatas\Documents\projetos\Portfolio\use-dapper\obj\Debug\net5.0\staticwebassets\useDapper.StaticWebAssets.xml
+C:\Users\Jonatas\Documents\projetos\Portfolio\use-dapper\obj\Debug\net5.0\scopedcss\bundle\useDapper.styles.css
+C:\Users\Jonatas\Documents\projetos\Portfolio\use-dapper\obj\Debug\net5.0\useDapper.RazorTargetAssemblyInfo.cache
+C:\Users\Jonatas\Documents\projetos\Portfolio\use-dapper\obj\Debug\net5.0\useDapper.csproj.CopyComplete
+C:\Users\Jonatas\Documents\projetos\Portfolio\use-dapper\obj\Debug\net5.0\useDapper.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\use-dapper\obj\Debug\net5.0\ref\useDapper.dll
+C:\Users\Jonatas\Documents\projetos\Portfolio\use-dapper\obj\Debug\net5.0\useDapper.pdb
+C:\Users\Jonatas\Documents\projetos\Portfolio\use-dapper\obj\Debug\net5.0\useDapper.genruntimeconfig.cache
